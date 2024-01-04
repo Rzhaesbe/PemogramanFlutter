@@ -7,7 +7,7 @@ void main() {
 class MyApp extends StatelessWidget {
   final List<Map<String,dynamic>> myList = [
     {
-      "Name" : "Hafizhoh",
+      "Name" : "Zailany Hasibuan",
       "Age" : 19,
       "favColor" : [
         "Black", 
